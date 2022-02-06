@@ -1,26 +1,26 @@
 {
-   "token": "Bot Token",
-   "prefix": "?",
+   "token": "ODI0OTkxNjgxNDMzNTY3Mjgz.YF3bYA.j7LkJ8HjMOB-CmfuZAHVS94zXhY",
+   "prefix": "c!",
    "ownerIDS": [
-      "442355791412854784"
+      "760938184661008455"
    ],
    "status": {
-      "text": "{prefix}help | played {songsplayed} Songs on {guildcount} Guilds | Support: discord.gg/milrato",
-      "text2": "By: milrato.dev",
+      "text": "{prefix}help | reproducidas {songsplayed} Canciones en {guildcount} Servidores",
+      "text2": "Proporcionado por Caletaponsio",
       "type": "PLAYING",
       "url": "https://twitch.tv/#"
    },
    "clientsettings": {
       "nodes": [
          {
-            "host": "localhost",
+            "host": "node04.lavalink.eu",
             "port": 2333,
-            "password": "youshallnotpass"
+            "password": "Raccoon"
          }
       ]
    },
    "spotify": {
-      "clientID": "",
-      "clientSecret": ""
+      "clientID": "b5fbc843970b465ca9541905f77d7e9e",
+      "clientSecret": "015794821d7745a5a751e92602787754"
    }
 }
